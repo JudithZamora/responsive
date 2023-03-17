@@ -122,7 +122,7 @@
     min-width: 320px;
     max-width: 480px;
     height: 400px;
-    background-image: url(./IMAGENEST2/Imagen\ del\ título.png);
+    background-image: url(/IMAGENEST2/Imagen\ del\ título.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -377,7 +377,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/andres.jpg);
+    background-image: url(/IMAGENES/andres.jpg);
   }
   body .team__text {
     margin-top: 5%;
@@ -403,7 +403,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/carla.jpg);
+    background-image: url(/IMAGENES/carla.jpg);
   }
   body .team__img--mario {
     width: 100%;
@@ -411,7 +411,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/mario.jpg);
+    background-image: url(/IMAGENES/mario.jpg);
   }
   body .team__img--pablo {
     width: 100%;
@@ -419,7 +419,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/pablo.jpg);
+    background-image: url(/IMAGENES/pablo.jpg);
   }
   body .redSocial {
     width: 60%;
@@ -765,7 +765,7 @@
     min-width: 481px;
     max-width: 767px;
     height: 400px;
-    background-image: url(./IMAGENEST2/Imagen\ del\ título.png);
+    background-image: url(/IMAGENEST2/Imagen\ del\ título.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1044,7 +1044,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/andres.jpg);
+    background-image: url(/IMAGENES/andres.jpg);
   }
   body .team__text {
     margin-top: 5%;
@@ -1070,7 +1070,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/carla.jpg);
+    background-image: url(/IMAGENES/carla.jpg);
   }
   body .team__img--mario {
     width: 100%;
@@ -1078,7 +1078,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/mario.jpg);
+    background-image: url(/IMAGENES/mario.jpg);
   }
   body .team__img--pablo {
     width: 100%;
@@ -1086,7 +1086,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(./IMAGENES/pablo.jpg);
+    background-image: url(/IMAGENES/pablo.jpg);
   }
   body .redSocial {
     width: 60%;
@@ -1262,7 +1262,7 @@
     letter-spacing: 3%;
     color: white;
     padding: 2%;
-    background-image: url(/IMAGENES/icon\ send.png);
+    background-image: url(./IMAGENES/icon\ send.png);
     background-size: 20px 20px;
     background-repeat: no-repeat;
     background-position: 145px 13px;
@@ -1437,7 +1437,7 @@
     min-width: 768px;
     max-width: 1600px;
     height: 600px;
-    background-image: url(/IMAGENEST2/Imagen\ del\ título.png);
+    background-image: url(./IMAGENEST2/Imagen\ del\ título.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1713,7 +1713,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/IMAGENES/1l.jpg);
+    background-image: url(./IMAGENES/1l.jpg);
   }
   body .do__img2 {
     width: 100%;
@@ -1721,7 +1721,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(/IMAGENES/2c.jpg);
+    background-image: url(./IMAGENES/2c.jpg);
   }
   body .do__img3 {
     width: 100%;

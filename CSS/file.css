@@ -203,7 +203,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/image.jpg);
+    background-image: url(./IMAGENEST2/image.jpg);
   }
   body .main .gallery__img2 {
     width: 100%;
@@ -211,7 +211,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-1.jpg);
+    background-image: url(./IMAGENEST2/imagen-1.jpg);
   }
   body .main .gallery__img3 {
     width: 100%;
@@ -219,7 +219,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-2.jpg);
+    background-image: url(./IMAGENEST2/imagen-2.jpg);
   }
   body .main .gallery__img4 {
     width: 100%;
@@ -227,7 +227,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-3.jpg);
+    background-image: url(./IMAGENEST2/imagen-3.jpg);
   }
   body .main .gallery__img5 {
     width: 100%;
@@ -235,7 +235,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-4.jpg);
+    background-image: url(./IMAGENEST2/imagen-4.jpg);
   }
   body .main .gallery__img6 {
     width: 100%;
@@ -243,7 +243,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-5.jpg);
+    background-image: url(./IMAGENEST2/imagen-5.jpg);
   }
   body .main .gallery__img7 {
     width: 100%;
@@ -251,7 +251,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-6.jpg);
+    background-image: url(./IMAGENEST2/imagen-6.jpg);
   }
   body .main .gallery__img8 {
     width: 100%;
@@ -259,7 +259,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-7.jpg);
+    background-image: url(./IMAGENEST2/imagen-7.jpg);
   }
   body .main .gallery__img9 {
     width: 100%;
@@ -267,7 +267,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/IMAGENEST2/imagen-8.jpg);
+    background-image: url(./IMAGENEST2/imagen-8.jpg);
   }
   body .footer {
     width: 100%;
